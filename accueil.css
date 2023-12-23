@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.prodAcc{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 18rem);
+    grid-gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.prodAcc img{
+    width: 287px;
+    height: 200px;
+    object-fit: cover;
+}
+.bg{
+    background-color: green;
+}
+.colort{
+    color: white;
+}
+.carousel img{
+    height: 614px;
+    object-fit: cover;
+}
+
+.textt p{
+   font-size: 3em;
+}
+
